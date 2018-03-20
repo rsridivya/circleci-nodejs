@@ -1,7 +1,6 @@
 version: 2
 jobs:
-  build:
-    one:
+   one:
       docker:
         - image: rsridivya/hello
       steps:
